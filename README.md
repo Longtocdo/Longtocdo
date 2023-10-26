@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Long
-- 👀 I’m interested in Manga
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Manga and Music
+
 
 <!---
 Longtocdo/Longtocdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
